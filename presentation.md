@@ -15,20 +15,20 @@ So i'm borned before the end of History (hello Francis Fukuyama, how are you man
 I grew up in Belgium, in a smalltown between Charleroi and La Louvière ,surrounded by
 italian dialect mixed with wallon dialect. I studied art at a school called ERG (for Ecole de Recherche Graphique), after that i was too poor to just be an artist, so i worked as an art teacher. Since my teenage i produce music, i started at 14 by practicing guitar by myself. I had some cover bands with friends, but it was litteraly "claqué au sol". At 15 or 16 i had my first proper PC, in my bedroom. I quickly discovered Fruity Loops and decided to cracked it (hehe sorry guys). I discovered the power of MAO and above all that we could music without any fucking classic rules (i already knew it but i thought it was too far from me).   
 So i beginned to produce some harsh noise (it means very noisy piece of music)   
-and drony stuff (drone kinda means )))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
+and drony stuff (drone kinda means ))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
 and started my first myspace  "band" page. 
 Today i always make music in my bedroom (but i share my bedroom, so it's different)
 
 
-![-](https://1.bp.blogspot.com/-WWkimL8cJk0/XYCMHevHjKI/AAAAAAABJIU/YzbicO9JRVstAF0xaClpjjaOcdpfm9-FQCLcBGAsYHQ/s1600/crise%2B15.jpg)
+<img src="https://1.bp.blogspot.com/-WWkimL8cJk0/XYCMHevHjKI/AAAAAAABJIU/YzbicO9JRVstAF0xaClpjjaOcdpfm9-FQCLcBGAsYHQ/s1600/crise%2B15.jpg" alt="me" width="500" height="400"/>
 
 >>>>>>>>>>>>> Il se trouve que les oreilles n'ont pas de paupières
->>>>>>>>>>>>>(_it turns out that the ears do not have eyelids_)
+>>>>>>>>>>>>>>>>(_it turns out that the ears do not have eyelids_)
 >>>>>>>>>>>>>>>>:(
 
 #### <ins>Surprising Skills<ins> 
 
-1. i know by heart the whole discography of Phil Collins 
+1. i know by heart the whole Phil Collins's discography
 2. I talk to cats 
 3. I foresee what will happen (but i don't see dead people)  
 
@@ -73,9 +73,9 @@ i was afraid that he would go on rotten when we were on his computer
 >>>>>>>>A
 >>>>>>>>L
 
->>>*
+>>>>>>>>>>>*
 >>>>>>G
->I
+>>>>>I
 >>F
 
 
