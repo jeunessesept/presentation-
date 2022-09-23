@@ -4,9 +4,10 @@
 >>>>>>>>>>>>>>>*
 ![-](https://www.notrecinema.com/images/usercontent/star/patrick-timsit-photo_99034_36372.jpg)
 >>>>>>>>>>>Je n'étais qu'un jeune bipède, 
->>>>>>>>>>>égaré parmi des milliers d'autres jeunes bipèdes
->>>>>>>>>>(_I was just a young biped,
->>>>>>>>>>lost among thousands of other young bipeds_)
+>>>>>>>>>>égaré parmi des milliers d'autres jeunes bipèdes
+>>>>>>>>>>>>
+>>>>>>>>>>>(_I was just a young biped,
+>>>>>>>>>>>lost among thousands of other young bipeds_)
 
 
 i'm a human borned several months before the fall of Berlin's wall.  
@@ -26,27 +27,27 @@ Today i always make music in my bedroom (but i share my bedroom, so it's differe
 ![-](https://1.bp.blogspot.com/-WWkimL8cJk0/XYCMHevHjKI/AAAAAAABJIU/YzbicO9JRVstAF0xaClpjjaOcdpfm9-FQCLcBGAsYHQ/s1600/crise%2B15.jpg)
 
 >>>>>>>>>>>>> Il se trouve que les oreilles n'ont pas de paupières
-(_it turns out that the ears do not have eyelids_)
+>>>>>>>>>>>>>(_it turns out that the ears do not have eyelids_)
 >>>>>>>>>>>>>>>>:(
 
-##### Surprising Skills 
+#### <ins>Surprising Skills<ins> 
 
 1. I'm a good cooker (i 
 2. I talk to cats 
 3. I foresee what will happen (but i don't see dead people)
 
-##### Things i like the most 
+#### <ins>Things i like the most<ins>
 
 1. Listening to music, especialy rap (it's one of the thing that give me the most shivers since i discovered Booba not so long after 9/11)
 2. eating 
 3. sleep (it became one of my favorite thing since i've got a child, because now it's rare)
 
 I'm not really original 
-##### The objectives i'd like to achieve during Becode ?
+#### <ins>The objectives i'd like to achieve during Becode ?<ins>
 
 being able to climb the stairs like Rocky Balboa
 
-##### My fears :(
+#### <ins>My fears<ins> :(
 * being lost 
 * that someone put deodorant inside the tram, metro or bus
 * the videos in wich a scary girl appear screaming 
@@ -56,27 +57,25 @@ i was afraid that he would go on rotten when we were on his computer
 >>>>*
 >>>>>>>>>>>>>****
 >>>>>>>>>>>>>>>>>>>>>>>>>****
-##### Things i look forward to
+#### Things i look forward to
 * that my son finally sleeps a whole night  :')
 * to be rich enough to get a full wall of modular synthetizers
 * leave Brussels 
 
 
-##### working as a team
+#### <ins>working as a team<ins>
 * no **chief**, no **leader**, but each one able to be active and take decision when they need to be take
 * listen and respect each other 
 * don't take yourself too seriously
 
->>>>>>>>>I
->>>>>>>>>M
-
->>>>>>>>>M
->>>>>>>>>O
->>>>>>>>>R
-
->>>>>>>>>T
+>>>>>>>>I
+>>>>>>>>M 
+>>>>>>>>M
+>>>>>>>>O
+>>>>>>>>R
+>>>>>>>>T
 >>>>>>>>A
->>>>>>L
+>>>>>>>>L
 
 >>>*
 >>>>>>G
