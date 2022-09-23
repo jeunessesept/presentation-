@@ -57,7 +57,7 @@ i was afraid that he would go on rotten when we were on his computer
 >>>>*
 >>>>>>>>>>>>>****
 >>>>>>>>>>>>>>>>>>>>>>>>>****
-#### Things i look forward to
+#### <ins>Things i look forward to<ins>
 * that my son finally sleeps a whole night  :')
 * to be rich enough to get a full wall of modular synthetizers
 * leave Brussels 
